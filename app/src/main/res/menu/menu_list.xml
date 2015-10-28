@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:id="@+id/menu_list_view">
+        <item android:title="打印"/>
+        <item android:title="新建"/>
+        <item android:title="邮件"/>
+        <item android:title="设置"/>
+        <item android:title="订阅"/>
+        <item
+            android:id="@+id/item_exit"
+            android:title="退出"/>
+    </group>
+</menu>
