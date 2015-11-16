@@ -8,6 +8,12 @@
         <item>面向对象技术</item>
         <item>逻辑设计</item>
     </string-array>
+    <string-array name="list_view_name">
+        <item>张三</item>
+        <item>李四</item>
+        <item>王二</item>
+        <item>赵五</item>
+    </string-array>
     <string-array name="menu_items">
         <item>打印</item>
         <item>新建</item>

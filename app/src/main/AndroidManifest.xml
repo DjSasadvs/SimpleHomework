@@ -17,6 +17,10 @@
         </activity>
         <activity android:name=".ListviewActivity" >
         </activity>
+        <activity android:name=".NameActivity" >
+        </activity>
+        <activity android:name=".HandleNameSelectActivity" >
+        </activity>
     </application>
 
 </manifest>
